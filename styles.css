@@ -1,0 +1,187 @@
+﻿.container
+                {
+                 width: 100%;
+                 margin: 0;
+                 background-color: lightblue;
+                 color: Black;
+                 line-height: 100%;
+                 border: 1px;
+                 border-style: solid;
+                 background-image:url(".jpg");
+                 background-size:1800px 900px;
+				 text-align:center;
+				 height:97%;
+				 
+                 }
+
+.top
+                {
+                 padding: 0px;
+                 background-color:;
+                 border-bottom-style: solid;
+                 border-bottom-style: Green;
+                 background-size:1400px 100px;
+                 }
+.top h1{
+         padding: 0px;
+         text-align: right;
+         color: white;
+         font-size:38px;
+         }
+
+#left {
+           float:  left;
+           width:  200px;
+           height: 380px;
+           margin: 1m;
+           padding: 0;
+           background-color: ;
+           border-right: ;
+           border-bottom:;
+            }
+
+#content{
+                  margin-left: 215px;
+                  margin-top:0px;
+                  padding: 0em;
+                  max-width: 100em;
+				  max-height: 200em;
+				 
+                   }         
+
+#footer{ 
+                  margin: 0;
+                 clear: both;
+                 padding: 0.5em;
+                 max-width: 100em;
+                 color: #333;
+                 background-color: #f0ffff;
+                 border-top: 1px solid gray;
+                 }    
+#nav{
+    float: left;
+	margin: 0;
+	padding: 0;
+	width: 183px;
+    height: 44px;
+	}
+	
+#nav ul {
+    float:  left;
+    list-style: none;
+    font-family: Times New Roman;
+    font-size: 20;
+    font-weight bold;
+    text-align:center;
+    padding: 0em;
+    }
+
+#nav ul li a{
+    display: block;
+    background-color:#b7c1d9 ;
+    color:#000000;
+    padding: 8px 8px;
+    text-decoration: none;
+    border-bottom: 2px solid white;
+    border-right: 2px solid black; 
+    }
+
+#nav ul li a:hover{	
+    background-color: #070275;
+	        color: #ffffff;
+	}               
+
+#nav ul li a:focus{	
+    background-color: #999975;
+	        color: #ffffff;
+	}      
+
+
+
+
+.menu{
+  width:200px;
+  font-weight:bold;
+  float: center;
+  color:white;
+  
+  }
+ .menu a{
+ background-color:blue;
+ display:block;
+ padding:12px;
+ text-decoration:none;
+ border:3px solid black;
+ }
+ .menu a:visited:hover{
+ background-color:#ccc;
+ color: purple;;
+ }
+ .menu a:hover{
+ background-color:#ccc;
+ color: purple;;
+ }
+ .menu a:active{
+ background-color:#ccc;
+ color: purple;
+ }
+ 
+ .menu a:visited{
+ color: white;
+ }
+ 
+ 
+ input[type=button], input[type=submit], input[type=reset] {
+      background-color: navy;
+      border: none;
+      color: white;
+      padding: 16px 30px;
+      text-decoration: none;
+      margin: 4px 2px;
+      cursor: pointer;
+    }
+ 
+input[type=button]:hover, input[type=submit]:hover, input[type=reset]:hover {
+      background-color: crimson;
+      
+      
+      
+    }
+	
+    table{
+	padding: 30px;
+    opacity:0.9;
+    border-radius:13px;
+	
+	 
+    }
+	.t2 th {
+		background-color :white;
+		border:5px
+	}
+	.t2 td {
+		background-color :brown;
+		color :white;
+		border:ridge 3px;
+		text-align:center;
+	}
+	.t1{
+	padding: 50px;
+	 
+    }
+	.t1 th {
+		background-color :white;
+		border:5px
+	}
+	.t1 td {
+		background-color :blue;
+		color :white;
+		border:ridge 3px;
+		text-align:center;
+	}
+	input[type=text],input[type=date],input[type=month],input[type=password]{
+		width:20%;
+		padding: 12px 20px;
+		margin: 8px 0;
+		box-sizing:border-box;
+	}
