@@ -1,6 +1,7 @@
 # production-management-system-
 A web application 
 To ease out production management of a beverage company.
+The project completed under the course Internet Technologies.
 Based on database handling.
 Two different  seperate views are offered for managers and employees.
 Managers just can view and retrieve daily and monthly production reports based on the type of the product.
